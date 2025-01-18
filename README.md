@@ -3,6 +3,10 @@
 ## Description
 This is a Scrabble-inspired word game built using SwiftUI. The game challenges users to create words from a root word (displayed at the top of the screen) and earn points based on valid words formed. It includes error handling, a dynamic score counter, and a shuffle button that resets the game by changing the root word and resetting the score.
 
+!["Default screen"](screen1.png)
+
+!["Gameplay screen"](screen2.png)
+
 ## Technologies Used
 - **SwiftUI**: The user interface is designed using SwiftUI’s declarative syntax and state management system.
 - **Swift**: Core game logic including word validation, score calculation, and state management is implemented in Swift.
